@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Kisel001
-- 👀 I’m interested in ya hz kak eto na angl
-- 🌱 I’m currently learning hz sho eto
-- 💞️ I’m looking to collaborate on hz sho eto
-- 📫 How to reach me hz cho eto
+- 👀 I’m interested C++, C and Assembly developming.
+- 🌱 I’m currently learning Java Script.
 
 <!---
 Kisel001/Kisel001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
