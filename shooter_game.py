@@ -1,4 +1,3 @@
-#Создай собственный Шутер!
 from pygame import *
 from random import randint
 
